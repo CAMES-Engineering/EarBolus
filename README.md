@@ -12,6 +12,7 @@ Hvad er præcisionskravet ?
 ### First attempts
 
 1 - Kasse (Generisk)  
-2 - Øre der passer i  
+2 - Øre der passer i
+    Skæres flad i bunden så den kan lægge i formen
 3 - Målestok til at hælde silikone i  
 
