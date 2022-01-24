@@ -1,12 +1,12 @@
 //change placement of cylinder marker
-a1= 35.7;    //changing x-axis
-a2=3;      //changing y-axis
-a3= -39.8;   //changing z-axis
+a1= 0;    //changing x-axis
+a2=0;      //changing y-axis
+a3= 0;   //changing z-axis
 
 //change placement of ear values
-h1=-50; //changing x
-h2=200; //changing y
-h3=-20; //changing z
+h1=-0; //changing x
+h2=0; //changing y
+h3=-0; //changing z
 
 
 
