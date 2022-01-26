@@ -1,5 +1,21 @@
 # EarBolus
 
+
+
+# Projekt trin
+
+
+Aftalte trin med Kiki
+
+See kommentarer i scad fil.
+
+Lav trin i denne fil.
+
+
+
+
+---
+
 ## Requirements
 
 Krav til Bolus i silikone
@@ -15,4 +31,3 @@ Hvad er præcisionskravet ?
 2 - Øre der passer i
     Skæres flad i bunden så den kan lægge i formen
 3 - Målestok til at hælde silikone i  
-
