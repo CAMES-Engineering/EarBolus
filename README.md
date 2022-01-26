@@ -11,7 +11,9 @@ See kommentarer i scad fil.
 
 Lav trin i denne fil.
 
+# Færdige trin
 
+<del>Kiki status</del>
 
 
 ---
