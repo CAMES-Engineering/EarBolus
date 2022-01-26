@@ -11,6 +11,23 @@ See kommentarer i scad fil.
 
 Lav trin i denne fil.
 
+Overvej om der skal laves ændringerne i ørefilerne for at de kan printes.
+
+
+Til at lave flad bagkant
+
+
+Prøv
+1:
+hull(){    
+  sphere(15);    
+
+  translate([-25,-25,-50])
+  cube([50,50,5]);
+};
+
+2: Extrude down
+
 # Færdige trin
 
 <del>Kiki status</del>
